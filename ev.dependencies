@@ -16,6 +16,10 @@
     "target_path": "kernel/samsung/jf"
   },
   {
+    "repository": "android_hardware_qcom_media-caf",
+    "target_path": "hardware/qcom/media-caf"
+  },
+  {
     "repository": "android_hardware_samsung",
     "target_path": "hardware/samsung"
   }
