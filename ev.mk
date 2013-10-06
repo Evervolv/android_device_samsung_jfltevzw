@@ -16,7 +16,7 @@ PRODUCT_NAME := ev_jfltevzw
 PRODUCT_DEVICE := jfltevzw
 
 # Set up the product codename, build version & MOTD.
-PRODUCT_CODENAME := jfltevzw
+PRODUCT_CODENAME := Fruor
 PRODUCT_VERSION_DEVICE_SPECIFIC := p1
 
 PRODUCT_MOTD :="\n\n\n--------------------MESSAGE-------------------\nThank you for choosing Evervolv for your\n Verizon Samsung Galaxy S4\nPlease visit us at \#evervolv on irc.freenode.net\nFollow @preludedrew for the latest Evervolv updates\nGet the latest rom at evervolv.com\n----------------------------------------------\n"
