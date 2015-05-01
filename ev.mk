@@ -15,9 +15,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 PRODUCT_GMS_CLIENTID_BASE := android-verizon
 
-# Copy compatible prebuilt files
-PRODUCT_COPY_FILES += \
-vendor/ev/prebuilt/qhd/media/bootanimation.zip:system/media/bootanimation.zip
+# Bootanimation
+BOOT_ANIMATION_SIZE := 1080p
 
 PRODUCT_NAME := ev_jfltevzw
 PRODUCT_DEVICE := jfltevzw
